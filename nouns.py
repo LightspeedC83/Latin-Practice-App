@@ -133,10 +133,11 @@ fifth_declension = [
 
 class Noun:
     """A Latin noun"""
-    def __init__(self, name, stem, declension, gender):
+    def __init__(self, name, stem, declension, gender, definition):
         self.name = name
         self.gender = gender
         self.stem = stem
+        self.definition = definition
 
         # making a list of the declined word
         self.declined = []
@@ -152,7 +153,7 @@ class Noun:
         
         names = ["Nominative", "Genitive", "Dative", "Accusative", "Ablative", "Vocative"]
         
-        print("-"*25+f"\n{self.name}, {self.gender}")
+        print("-"*25+f"\n{self.name}, {self.gender}. {self.definition}")
         print("-"*25+"\nSingular")
         for form, name in zip(self.declined[0:6],names):
             print(f"\t{name}: {form}")
@@ -162,7 +163,8 @@ class Noun:
             print(f"\t{name}: {form}")
         print("-"*25)
     
-    
-puella = Noun("puella", "puell", first_declension, "f")
+
+# testing stuff out 
+puella = Noun("puella", "puell", first_declension, "f", "girl")
 
 puella.decline()
