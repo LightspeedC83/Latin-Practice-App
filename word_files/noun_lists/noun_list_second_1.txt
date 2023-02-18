@@ -2,10 +2,6 @@ acidum, ī, n
 acid
 
 
-acrōmion, ī, n
-acromion (Greek)
-
-
 adultus, ī, m
 adult/grown-up man
 
@@ -83,7 +79,7 @@ neck
 
 
 cōlon, ī, n
-large intestine (Greek)
+large intestine
 
 
 condylus, ī, m
@@ -132,10 +128,6 @@ extract
 
 fundus, ī, m
 bottom, base of an organ
-
-
-ganglion, ī, n
-ganglion (Greek)
 
 
 guttātōrium, ī, n
@@ -238,10 +230,6 @@ oesophagus, ī, m
 gullet
 
 
-ōlecrānon, ī, n
-olecranon (Greek)
-
-
 oleum, ī, n
 oil
 
@@ -255,7 +243,7 @@ orifice/entrance/opening
 
 
 ōstium, ī, n
-orifice/entrance
+orifice/entrance/port
 
 
 ōvārium, ī, n
@@ -294,8 +282,8 @@ remedium, ī, n
 remedy
 
 
-s(a)eptum, ī, n
-thin partition
+saeptum, ī, n
+fold/thin partition
 
 
 scalpellum, ī, n

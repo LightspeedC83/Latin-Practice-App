@@ -1,6 +1,6 @@
 acidum, i, n acid
-acromion, i, n (G) acromion
-adultus, i , m adult/ grown-up man
+acromion, i, n acromion
+adultus, i, m adult/ grown-up man
 aegrotus, i, m patient
 angulus, i, m angle
 annus, i, m year
