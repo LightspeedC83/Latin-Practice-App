@@ -1,0 +1,94 @@
+agricola, agricolae (m) farmer
+amicitia, amicitiae (f) friendship
+ancilla, ancillae (f) slave-girl
+anima, animae (f) current of air, soul
+aqua, aquae (f) water
+ara, arae (f) altar
+audacia, audaciae (f) daring, courage, bravery, valor
+aura, aurae (f) air, breeze, wind
+avaritia, avaritiae (f) greed, avarice
+barba, barbae (f) beard
+causa, causae (f) cause, reason, motive, inducement
+cena, cenae (f) dinner
+copia, copiae (f) abundance, ample supply, resource (pl. forces)
+corona, coronae (f) garland, chaplet, crown, circle
+cura, curae (f) trouble, care, attention, diligence
+dea, deae (f) goddess
+diligentia, diligentiae (f) attentiveness, earnestness, diligence
+disciplina, disciplinae (f) instruction, tuition, training, education
+divitiae, divitarum (f.pl) riches, wealth
+domina, dominae (f) mistress
+eloquentia, eloquentiae (f) eloquence
+epistula, epistulae (f) letter
+fabula, fabulae (f) story, tale, play
+fama, famae (f) report, rumor, reputation
+femina, feminae (f) woman
+filia, filiae (f) daughter
+flamma, flammae (f) blazing fire, blaze, flame
+forma, formae (f) form, contour, figure, shape
+fortuna, fortunae (f) luck
+fuga, fugae (f) flight, running away
+gloria, gloriae (f) glory, fame, renown, honor
+gratia, gratiae (f) favour, esteem, regard, partiality
+harena, harenae (f) sandy, sandy place
+hasta, hastae (f) spear
+hora, horae (f) hour
+ianua, ianuae (f) door, house-door, entrance
+ignominia, ignominiae (f) disgrace, dishonour, ignominy
+iniuria, iniuriae (f) injustice, wrong, outrage, injury
+inopia, inopiae (f) want, lack, scarcity
+insidiae, insidiarum (f.pl) snare, trap, ambush
+insula, insulae (f) island, block of flats
+invidia, invidiae (f) envy, grudge, jealousy
+ira, irae (f) anger, ire, wrath, rage
+iustitia, iustitiae (f) justice, equity, righteousness, uprightness
+lacrima, lacrimae (f) tear
+licentia, licentiae (f) freedom, wantonness, license, dissoluteness
+littera, litterae (f) letter, alphabetical sign
+luna, lunae (f) moon
+memoria, memoriae (f) memory, remembrance
+minae, minarum (f.pl) projecting points, pinnacles, threats
+misericordia, misericordiae (f) pity, compassion, sympathy, mercy
+mora, morae (f) delay, procrastination
+natura, naturae (f) nature, inclination, character, birth
+nauta, nautae (m) sailor, boatman, mariner, seaman
+opera, operae (f) service, exertion, work, labor
+ora, orae (f) border, boundary, limit, shore
+palma, palmae (f) palm, flat hand, palm tree
+patria, patriae (f) homeland
+pecunia, pecuniae (f) money, wealth, property
+pirata, piratae (m) sea robber, pirate
+poena, poenae (f) compensation, punishment, recompense, penalty
+poeta, poetae (m) poet
+pompa, pompae (f) procession, parade
+porta, portae (f) gate, city gate
+potentia, potentiae (f) might, force, power, capacity
+praeda, praedae (f) booty, spoil, plunder
+prora, -ae (f) forepart of a ship, bow, prow
+provincia, provinciae (f) office, duty, province, command
+prudentia, prudentiae (f) foreseeing, knowledge, good sense
+puella, puellae (f) girl
+pugna, -pugnae (f) fight, battle, combat, engagement
+regina, reginae (f) queen
+ripa, ripae (f) river bank
+rosa, rosae (f) rose
+ruina, ruinae (f) rushing down, downfall, catastrophe, destruction
+sapientia, sapientiae (f) good taste, discretion, intelligence, wisdom
+scientia, scientiae (f) knowledge, intelligence
+sententia, sententiae (f) opinion, judgement, sentiment
+silva, silvae (f) wood, forest, woodland
+summa, summae (f) summit, top, highest rank
+tabula, tabulae (f) board, plank, writing tablet
+tenebrae, tenebrarum (f.pl) darkness, gloom
+terra, terrae (f) land
+toga, togae (f) toga
+tuba, tubae (f) trumpet
+turba, turbae (f) commotion, disorderly crowd, throng
+umbra, umbrae (f) shadow, shade (ghost)
+unda, undae (f) wave, water
+venia, veniae (f) indulgence, kindness, mercy
+via, viae (f) street, road
+victoria, victoriae (f) victory, prestige, success
+vigilia, vigiliae (f) watch, wakefulness, sleeplessness, keeping watch
+villa, villae (f) house, farm, country house
+vita, vitae (f) life

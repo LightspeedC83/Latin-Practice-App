@@ -1,0 +1,430 @@
+abstinentia, ae, f
+abstinence
+
+
+adulta, ae, f
+adult/grown-up woman
+
+
+āla, ae, f
+wing
+
+
+angīna, ae, f
+angina
+
+
+aorta, ae, f
+aorta
+
+
+apertūra, ae, f
+opening
+
+
+aqua, ae, f
+water
+
+
+ārea, ae, f
+area
+
+
+āreola, ae, f
+areola/small area
+
+
+artēria, ae, f
+artery
+
+
+artēriola, ae, f
+small artery
+
+
+barba, ae, f
+beard
+
+
+bēstia, ae, f
+beast
+
+
+bucca, ae, f
+cheek
+
+
+bursa, ae, f
+small sack
+
+
+calvāria, ae, f
+skull
+
+
+capsula, ae, f
+capsule
+
+
+causa, ae, f
+reason
+
+
+caverna, ae, f
+cavern
+
+
+cellula, ae, f
+cell
+
+
+clāvicula, ae, f
+collar bone/clavicle
+
+
+columna, ae, f
+column
+
+
+comissūra, ae, f
+commissure (junction)
+
+
+coinūnctīva, ae, f
+conjunctiva/protective layer lining eyelids
+
+
+corōna, ae, f
+crown
+
+
+costa, ae, f
+rib
+
+
+crista, ae, f
+ledge
+
+
+cupula, ae, f
+small, inverted cup or dome-shaped cap over a structure
+
+
+curvātūra, ae, f
+curvature
+
+
+cuticula, ae, f
+epidermis
+
+
+diphtheria, ae, f
+diphtheria
+
+
+ēminentia, ae, f
+eminence
+
+
+fascia, ae, f
+sheet of connective tissue
+
+
+fēmina, ae, f
+woman
+
+
+fibula, ae, f
+fibula
+
+
+fissūra, ae, f
+fissure
+
+
+forma, ae, f
+form
+
+
+fossa, ae, f
+pit
+
+
+frāctura, ae, f
+fracture
+
+
+glandula, ae, f
+gland
+
+
+glōssa, ae, f
+tongue
+
+
+gravida, ae, f
+pregnant woman
+
+
+gutta, ae, f
+drop
+
+
+hernia, ae, f
+bulge
+
+
+hōra, ae, f
+hour
+
+
+incīsūra, ae, f
+indentation/notch
+
+
+insufficientia, ae, f
+functional disability
+
+
+iūnctura, ae, f
+junction
+
+
+lacrima, ae, f
+tear
+
+
+lagoena, ae, f
+bottle
+
+
+lingua, ae, f
+tongue
+
+
+mamilla, ae, f
+nipple
+
+
+mamma, ae, f
+breast/mamma gland
+
+
+mandibula, ae, f
+lower jaw
+
+
+maxilla, ae, f
+upper jaw
+
+
+medicīna, ae, f
+medicine
+
+
+medulla, ae, f
+marrow
+
+
+membrāna, ae, f
+membrane
+
+
+mora, ae, f
+pause/delay
+
+
+mucōsa, ae, f
+layer producing mucous
+
+
+nātūra, ae, f
+nature
+
+
+nausea, ae, f
+that state that precedes vomiting
+
+
+neonāta, ae, f
+newborn - girl
+
+
+olla, ae, f
+ointment jar
+
+
+orbita, ae, f
+orbit
+
+
+palpebra, ae, f
+eyelid
+
+
+papilla, ae, f
+nipple-shaped eminence
+
+
+patella, ae, f
+kneecap
+
+
+pausa, ae, f
+pause/stop
+
+
+pilula, ae, f
+pill
+
+
+planta, ae, f
+sole/plant
+
+
+porta, ae, f
+gateway
+
+
+praeventia + ante, ae, f
+prevention of
+
+
+prostata, ae, f
+prostate gland
+
+
+puella, ae, f
+girl
+
+
+pūpilla, ae, f
+pupil
+
+
+pȳaemia, ae, f
+presence of pyogenic organism in blood
+
+
+resistentia, ae, f
+resistance
+
+
+rīma, ae, f
+fissure
+
+
+rubeola, ae, f
+rubella
+
+
+rūptūra, ae, f
+burst/split
+
+
+salīva, ae, f
+spittle (saliva)
+
+
+scapula, ae, f
+shoulder blade
+
+
+scarlatīna, ae, f
+scarlet fever
+
+
+scatula, ae, f
+box
+
+
+spīna, ae, f
+spine/thorn/spike
+
+
+stella, ae, f
+star
+
+
+stīlla, ae, f
+drop
+
+
+substantia, ae, f
+substance
+
+
+summa, ae, f
+total
+
+
+sūtūra, ae, f
+suture - anatomical and surgical
+
+
+tabula, ae, f
+table
+
+
+taenia, ae, f
+strip
+
+
+terra, ae, f
+earth
+
+
+tībia, ae, f
+shin bone
+
+
+tinctūra, ae, f
+tincture
+
+
+tōnsilla, ae, f
+tonsil
+
+
+tunica, ae, f
+coat/layer
+
+
+ulna, ae, f
+medial forearm bone
+
+
+ūrina, ae, f
+urine
+
+
+ūvula, ae, f
+uvula
+
+
+vāgīna, ae, f
+sheath
+
+
+varicella, ae, f
+chickenpox
+
+
+variola, ae, f
+smallpox
+
+
+vēna, ae, f
+vein
+
+
+vertebra, ae, f
+spondyle
+
+
+vēsīca, ae, f
+bladder
+
+
+via, ae, f
+way
