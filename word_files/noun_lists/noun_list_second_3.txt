@@ -1,0 +1,108 @@
+acidum, i, n acid
+acromion, i, n (G) acromion
+adultus, i , m adult/ grown-up man
+aegrotus, i, m patient
+angulus, i, m angle
+annus, i, m year
+antebrachium, i, n forearm
+anus, i, m anus
+atomus, i, f atomus
+atrium, i, n atrium - upper chamber of the heart
+bacillus, i, m bacillus germ
+bonum, i, n the good/ a good thing
+bulbus, i, m bulb, eyeball
+caecum, i, n caecum/blind intestine
+cancer, cancri, m cancer/carcinoma (crab)
+capitulum, i, n small head
+carpus, i, m wrist
+cavum, i, n cave/cavity
+cerebellum, i, n small brain
+cerebrum, i, n brain
+choledochus, i, m bile duct
+cibus, i, m meal/food
+circulus, i, m circle
+collum, i, n neck
+colon, i, n (G) large intestine
+condylus, i, m condyle
+cranium, i, n skull
+cubitus, i, m elbow
+delirium, i, n delirium
+diameter, i, f (G) diameter
+digitus, i, m finger
+dorsum, i, n the back
+ductulus, i, m small duct
+duodenum, i, n duodenum
+emplastrum, i, n plaster
+extractum, i, n extract
+fundus, i, m bottom, base of an organ
+ganglion, i, n (G) ganglion
+guttatorium, i, n dropper
+humerus, i, m upper arm bone
+icterus, i, m jaundice
+ieiunum/jejunum, i, n jejunum/ second part of the small intestine
+ileus, i, m intestinal obstruction
+instrumentum, i, n instrument
+intestinum, i, n intestine
+isthmus, i, m narrow passage
+labium, i, n lip
+ligamentum, i, n ligament
+lobus, i, m lobe
+locus, i, m location, place
+magister, tri, m pharmacist/teacher
+manubrium, i, n handle
+medicamentum, i, n remedy
+medicus, i, m doctor/physician
+membrum, i, n extremity
+methodus, i, f method
+morbilli, orum, m measles
+morbus, i, m illness/disease
+musculus, i, m muscle
+nasus, i, m nose
+neonatus, i, m newborn boy
+nervus, i, m nerve
+nucleus, i, m core, nucleus
+numerus, i, m number
+oculus, i, m eye
+oesophagus, i, m gullet
+olecranon, i, n (G) olecranon
+oleum, i, n oil
+organum, i, n organ
+orificium, i, n orifice/entrance/opening
+ostium, i, n orifice/entrance
+ovarium, i, n ovary
+pericardium, i, n pericardium
+periculum, i, n danger
+periodus, i, f period
+puer, pueri, m boy
+pylorus, i, m pylorus (part of stomach)
+radius, i, m radius
+ramus, i, m branch
+rectum, i, n rectum, upright gut
+remedium, i, n remedy
+scalpellum, i, n scalpel
+scriptum, i, n manual/textbook
+sedativum, i, n sedative (remedy)
+septum, i, n thin partition
+signum, i, n symptom
+sirupus, i, m sirup
+spasmus, i, m spasm
+spatium, i, n space
+sputum, i, n sputum
+sternum, i, n breast bone
+sulcus, i, m furrow
+suppositorium, i, n suppository/insertion
+tetanus, i, m tetanus
+thymus, i, m thymus
+toxicum, i, n poison
+tuberculum, i, n small tubercle
+typhus, i, m typhus
+unguentum, i, n ointment
+uterus, i, m womb
+venenum, i, n venom/poison
+ventriculus, i, m ventricle/small cavity
+vestibulum, i, n large entrance
+vinum, i, n wine
+vir, viri, m man
+virus, i, n virus
+vitium, i, n defect
+vitrum, i, n glass
