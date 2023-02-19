@@ -9,7 +9,8 @@ a program/application to help study the forms and meanings of Latin words. I hop
 - ~~import third declension nouns~~
 - ~~investigate duplicates in third declension nouns (first culprit found was "hospes")~~
     - ~~(the solution doesn't fix the underlying problem, but sifts through the noun_list_third_combined.txt file and removes duplicates and puts everything into a new file because that seemed easier and I was feeling lazy)~~
-- import fourth declension nouns
+- ~~import fourth declension nouns~~
+- ~~import fifth declension nouns~~
 - sift through third nouns to sort between neuter and third
 - sift through the neuter nouns mixed in with the secon declension nouns
     - develop way of trying to automatically classify a noun based off principle parts
@@ -33,6 +34,7 @@ a program/application to help study the forms and meanings of Latin words. I hop
 
 ## Sources:
 - 6 years of taking Latin
+- whitaker's words: https://latin-words.com/
 - first declension nouns
     - https://quizlet.com/240560327/latin-nouns-first-declension-flash-cards/
     - https://quizlet.com/824589/latin-first-declension-nouns-flash-cards/
@@ -52,3 +54,7 @@ a program/application to help study the forms and meanings of Latin words. I hop
 - fourth declension
     - https://quizlet.com/749402469/latin-fourth-declension-nouns-flash-cards/
     - https://quizlet.com/726111430/fourth-declension-nouns-flash-cards/
+- fifth declension
+    - https://www.thelatinlibrary.com/101/Declension5.pdf
+    - https://quizlet.com/593997800/latin-fourth-and-fifth-declension-nouns-flash-cards/
+    - https://en.wiktionary.org/wiki/Category:Latin_fifth_declension_nouns
