@@ -143,11 +143,7 @@ meat, flesh
 
 
 Carthago, Carthaginis f.
-Carthago
-
-
-Carthago, Carthaginis Nova f.
-Carthago Nova
+Carthage
 
 
 celeritas, celeritatis f.
@@ -232,10 +228,6 @@ body
 
 coturnix, coturnicis f.
 quail
-
-
-crescente, crescentis f.
-croissant
 
 
 crus, cruris n.

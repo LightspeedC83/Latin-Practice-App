@@ -7,6 +7,8 @@ a program/application to help study the forms and meanings of Latin words. I hop
 - ~~import list of second declension nouns~~
 - ~~import list of second declension neuter nouns~~
 - ~~import third declension nouns~~
+- ~~investigate duplicates in third declension nouns (first culprit found was "hospes")~~
+    - ~~(the solution doesn't fix the underlying problem, but sifts through the noun_list_third_combined.txt file and removes duplicates and puts everything into a new file because that seemed easier and I was feeling lazy)~~
 - import fourth declension nouns
 - sift through third nouns to sort between neuter and third
 - sift through the neuter nouns mixed in with the secon declension nouns

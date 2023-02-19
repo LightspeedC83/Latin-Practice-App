@@ -2,21 +2,15 @@ adeps, adipis m | fat
 aether, aetheris m | ether
 calor, caloris m | warmth
 carbo, carbonis m | coal (anthrax) - disease)
-color, coloris m | color
 cortex, corticis m | bark
-dens, dentis m | tooth
-dolor, doloris m | pain
-flos, floris m | flower, blossom
 latex, laticis m | latex
 lichen, lichenis m | lichen, moss
 lien, lienis m | spleen
 liquor, liquoris m | liquor
 odor, odoris m | smell
-pes, pedis m | foot
 pulmo, pulmonis m | lung
 pulvis, pulveris m | powder
 ren, renis m | kidney
-sanguis, sanguinis m | blood
 sapo, saponis m | soap
 stipes, stipitis m | stipe (a stalk or stem of a seaweed or fungus)
 sudor, sudoris m | sweat
@@ -62,14 +56,9 @@ radix, radicis f | root
 solutio, solutionis f | solution
 suspensio, suspensionis f | suspension
 vertigo, vertiginis f | vertigo, dizziness
-abdomen, abdominis n | abdomen, belly
 alumen, aluminis n | alum (potassium aluminium sulfate)
 elixir, elixiris n | elixir
-fel, fellis n | gall, bile
-genus, generis n | race, class, group
 lac, lactis n | milk
-mel, mellis n | honey
-os, oris n | mouth
 pancreas, pancreatis n | pancreas
 pectus, pectoris n | chest
 pondus, ponderis n | weight
@@ -81,90 +70,38 @@ Sulfur, Sulfuris n | sulfur
 tuber, tuberis n | root, tumor, bump
 ulcus, ulceris n | ulcer
 vas, vasis n | vessel
-aestas, aestatis, f. | summer, heat
 agger, aggeris, m. | rampart
-agmen, agminis, n. | column
-amor, amoris, m. | love
-ars, artis, f. | skill, art
-arx, arcis, f. | citadel
 auctoritas, auctoritatis, f. | authority, power
-auris, auris, f. | ear
-bos, bovis, m/f | ox, cow
-canis, canis, m. | dog
-caro, carnis, f. | flesh
-carmen, carminis, n. | poem, song
 certamen, certaminis, n. | contest, struggle
-civis, civis, m/f | citizen
-clades, cladis, f. | defeat, disaster
-clamor, clamoris, m. | shout
-classis, classis, f. | fleet
-comes, comitis, m. | companion
-coniunx, coniugis, m/f | wife, husband
-consul, consulis, m. | consul
 crux, crucis, f. | cross
 cupido, cupidinis, f. | desire, passion
-custos, custodis, m. | guard
 dedecus, dedecoris, n. | disgrace
 decus, decoris, n. | honour
 dictator, dictatoris, m. | dictator
 dignitas, dignitatis, f. | worth, dignity
-dolor, doloris, m. | grief, pain
-dux, ducis, m. | leader, guide
 equites, equitum, m. pl. | cavalry
-explorator, exploratoris, m. | scout, spy
-facultas, facultatis, f. | opportunity
 fames, famis, f. | hunger
-finis, finis, m. | end, boundary
-flos, floris, m. | flower
 fons, fontis, m. | fountain
-frater, fratris, m. | brother
 fraus, fraudis, f. | deceit; trickery
 frigus, frigoris, n. | cold
-genus, generis, n. | race, kind
-gens, gentis, f. | people, tribe
-honor, honoris, m. | honour
-hospes, hospitis, m. | host, guest
-hostis, hostis, m. | enemy
-ignis, ignis, m. | fire
-imperator, imperatoris, m. | general
-iter, itineris, n. | journey
 ius, iuris, n. | law, right
 iudex, iudicis, m. | judge
-iuvenis, iuvenis, m. | young man
-labor, laboris, m. | work
-latro, latronis, m. | robber
-legio, legionis, f. | legion
-leo, leonis, m. | lion
-lex, legis, f. | law
-libertas, libertatis, f. | freedom
-litus, litoris, f. | shore
 multido, multitudinis, f. | crowd
-mater, matris, f. | mother
-mercator, mercatoris, m. | merchant
-miles, militis, m. | soldier
 moenia, moenium, n. pl. | city walls
-mons, montis, m. | mountain
-mos, moris, m. | custom
-mulier, mulieris, f. | woman, wife
 munitio, munitionis, f. | fortification
 munus, muneris, n. | reward
 nemo, neminis, m/f | no one
 nubes, nubis, f. | cloud
-obses, obsidis, m/f | hostage
 occasio, occasionis, f. | opportunity
 onus, oneris, n. | burden
 ops, opis, f. | help
 opes, opium, f. pl. | wealth
-opus, operis, n | work
 ordo, ordinis, m. | order, rank
-os, oris, n. | mouth, face
 orator, oratoris, m. | speaker
 oratio, orationis, f. | speech
 os, ossis, n. | bone
-pax, pacis, f. | peace
 parens, parentis, m/f | parent
 pes, pedis, m. | foot
-pedes, peditis, m. | foot soldier
 pedites, peditum, m. pl. | infantry
 plebs, plebis, f. | common people
 pons, pontis, m. | bridge
@@ -183,17 +120,13 @@ senator, senatoris, m. | senator
 servitudo, servitudinis, f. | slavery
 sol, solis, m. | sun
 statio, stationis, f. | guard post, position
-tempestas, tempestatis, f. | storm
 uxor, uxoris, f. | wife
 vallis, vallis, f. | valley
 ver, veris, n. | spring
 veritas, veritatis, f. | truth
 vesper, vesperis, m. | evening
 vestis, vestis, f. | clothes
-victor, victoris, m. | victor
 virgo, virginis, f. | maiden
-vis, vis, f. | strength, force
-amor, -is, (m) | love
 ariēs, arietis (m) | ram
 centuriō, centuriōnis m. | centurion
 clāmor, clāmōris, m. | to shout
@@ -202,13 +135,10 @@ cōnsul, cōnsulis, m. | consul
 dēfēnsor, dēfēnsōris m. | defender
 dictātor, dictātōris, m. | dictator
 dolor, doloris, m. | pain, grief
-dux, ducis, m. | leader, general
 explorātor, explorātōris, m. | scout
 frāter, fratris m. | brother
 gladiātor, gladiātōris, m. | gladiator
-honor, honoris, m. | honor, office
 imperātor, imperātōris, m. | general, emperor
-labor, laboris, m. | to work
 leō, leōnis, m. | lion
 maiōrēs, maiōrum, m. pl. | ancestors
 mercātor, mercātōris, m. | merchant
@@ -255,13 +185,9 @@ suspīciō, suspīciōnis f | suspicion
 tempestas, tempestatis, f. | weather, storm
 vis, vis, f. | force, power, violence
 voluntas, voluntatis f. | will, wish
-ars, artis, f. | art, skill
-classis, classis, f. | fleet, class
 adulēscēns, adulēscentis m. | young man
-canis, canis masc./fem. | dog
 cīvis, cīvis, m./f. | citizen
 cliēns, -entis, m. | client
-dens, dentis, m. | tooth
 fīnis, fīnis, m. | end, boundary
 finēs, finium, m. (pl.) | boundaries, territory
 hostis, hostis, m. | enemy, host
@@ -269,25 +195,18 @@ hostis, hostis, m. | enemy, host
 mēnsis, mēnsis, m. | month
 mōns, montis, m. | mountain
 pōns, pontis, m. | bridge
-aestas, aestatis, f. | summer
 altitudo, altitudinis, f. | altitude
 arx, arcis, f. | citadel, stronghold
 auctōritās, auctōritātis, f. | influence, authority
 calamitas, calamitatis, f. | disaster, calamity
-celeritas, celeritatis, f. | speed
 condicio, condicionis f. | terms, condition, agreement
 consuetudo, consuetudinis, f. | custom
 cupiditas, cupiditatis, f. | desire
 deditio, deditionis (f) | to surrender
 difficultas, difficultatis, f. | difficulty
-gens, gentis, f. | family, clan, nation, race
 valles, vallis f. | valley
-agmen, agminis n. | battle line, marching column
-genus, generis n. | race, kind, sort
-iter, itineris, n. | journey, route, way
 iūs, iūris, n. | right, justice, law
 latus, lateris n. | side
-litus, litoris, n. | shore
 nihil, nihilis, n. | nothing
 opus, operis, n. | to work
 examplar, examplaris, n | example
