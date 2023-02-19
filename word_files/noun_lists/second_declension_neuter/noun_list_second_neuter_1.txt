@@ -1,0 +1,298 @@
+aevum, -ī (n.)
+lifetime, age, old age; eternity
+
+
+antrum, -ī (n.)
+cave, cavern, grot
+
+
+arma, -orum pl. (n.)
+arms, armor; implements of war; gear, tackle
+
+
+arvum, -ī (n.)
+field; plowed land
+
+
+astrum, -ī (n.)
+heavenly body, star, planet; constellation; sky
+
+
+aurum, -ī (n.)
+gold; money
+
+
+auxilium, -ī (n.)
+support, assistance; (pl.) auxiliary forces, reinforcements
+
+
+bellum, -ī (n.)
+war
+
+
+beneficium, -ī (n.)
+kindness, favor, privilege
+
+
+bonum, -ī (n.)
+good, good thing; profit, advantage; material goods, supplies
+
+
+caelum, -ī (n.)
+sky; heaven
+
+
+castra, -ōrum pl. (n.)
+camp, military encampment
+
+
+ceteri, ceterorum (n.)
+the others, the rest; all the rest; (pl.) from ceterus, used as a substantive
+
+
+collum, ī (n.)
+neck
+
+
+cōnsilium, -ī (n.)
+plan, idea, advice; council, deliberative body; prudence, discretion
+
+
+dōnum, -ī (n.)
+gift, present
+
+
+exemplum, -ī (n.)
+pattern; copy; analogy; archetype; reproduction, transcription
+
+
+exsilium, -ī (n.)
+exile, banishment; those exiled (pl.)
+
+
+factum, -ī (n.)
+fact, deed, act; accomplishment, achievement
+
+
+fātum, -ī (n.)
+fate (lit. that which is spoken)
+
+
+ferrum, -ī (n.)
+iron; iron tool; weapon, sword
+
+
+forum, -i (n.)
+marketplace; Roman forum; place of public meeting
+
+
+fretum, -ī (n.)
+strait (of water)
+
+
+gaudium, -ī (n.)
+delight, joy, pleasure
+
+
+imperium, -ī (n.)
+empire, power, command
+
+
+incendium, -ī (n.)
+conflagration; glow, heat
+
+
+ingenium, -ī (n.)
+character; temperament; ability
+
+
+initium, -ī (n.)
+beginning, commencement; entrance
+
+
+iudicium, -ī (n.)
+judgement, decision; opinion; trial
+
+
+iugum, -ī (n.)
+yoke; ridge, chain of hills; summit
+
+
+lētum, -ī (n.)
+ruin; (poetry) death
+
+
+malum, -ī (n.)
+evil, mischief; disaster; harm; also: apple
+
+
+membrum, -ī (n.)
+member, limb, organ; male genitals; room; section
+
+
+monumentum, -ī (n.)
+reminder; memorial, monument
+
+
+negotium, -ī (n.)
+pain, trouble, distress; work, business, activity, job
+
+
+odium, -ī (n.)
+hatred; unpopularity; boredom, impatience
+
+
+officium, -ī (n.)
+service, duty; kindness
+
+
+oppidum, -ī (n.)
+town
+
+
+ōsculum, -ī (n.)
+kiss
+
+
+ōtium, -ī (n.)
+leisure
+
+
+pelagus, -ī(n.)
+sea (esp. the open sea)
+
+
+perīculum, -ī (n.)
+danger, peril
+
+
+pōculum, -ī (n.)
+drinking cup
+
+
+praeceptum, -ī (n.)
+lesson, teaching, precept; command, order
+
+
+praemium, -ī (n.)
+bounty, reward
+
+
+praesidium, -ī (n.)
+protection; help; guard; garrison
+
+
+pretium, -ī (n.)
+price
+
+
+prīncipium, -ī (n.)
+beginning
+
+
+proelium, -ī (n.)
+fight, battle
+
+
+rēgnum, -ī (n.)
+royal power; control; kingdom
+
+
+sacrum, -ī (n.)
+sacrifice; sacred vessel; (pl.) religious rites
+
+
+saeculum, -ī (n.)
+a generation; age, esp. century; time in general
+
+
+saxum, -ī (n.)
+stone; stone face, cliff
+
+
+sepulcrum, -ī (n.)
+place of burial, tomb, grave
+
+
+sertum, -ī (n.)
+wreath of flowers, garland
+
+
+sīgnum, -ī (n.)
+sign, signal; mark, a seal; military standard
+
+
+somnium, -ī (n.)
+dream
+
+
+spatium, -ī (n.)
+space (of time, usually; sometimes: of place
+
+
+studium, -ī (n.)
+eagerness, devotion; (pl.) pursuits
+
+
+supplicium, -ī (n.)
+punishment, suffering; supplication; torture
+
+
+tēctum, -ī (n.)
+a covered place; roof; building, house
+
+
+tēlum, -ī (n.)
+weapon; bolt, javelin
+
+
+templum, -ī (n.)
+temple, holy place; place marked off for augury
+
+
+tergum, -ī (n.)
+back, rear
+
+
+vadum, -ī (n.)
+a ford; shallows, a shoal
+
+
+vēlum, -ī (n.)
+a cloth, covering; esp. sail
+
+
+venēnum, -ī (n.)
+poison, venom; drug
+
+
+verbum, -ī (n.)
+word
+
+
+verum, -ī (n.)
+truth, reality, fact; as adv. yes, in truth, indeed
+
+
+vestīgium, -ī (n.)
+footstep, footprint, track, trace
+
+
+vinculum, -ī (n.)
+bond, fetter, tie
+
+
+vīnum, -ī (n.)
+wine; vine
+
+
+vitium, -ī (n.)
+flaw, defect, foible; crime; fault
+
+
+vōtum, -ī (n.)
+vow, sacred promise; prayer; sacred offering; vote
+
+
+vulgus, -ī (n.)
+the common people

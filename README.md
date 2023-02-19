@@ -5,8 +5,9 @@ a program/application to help study the forms and meanings of Latin words. I hop
 ## To do:
 - ~~import list of first declension nouns~~
 - ~~import list of second declension nouns~~
-- import list of second declension neuter nouns
+- ~~import list of second declension neuter nouns~~
 - sift through the neuter nouns mixed in with the secon declension nouns
+    - develop way of trying to automatically classify a noun based off principle parts
 - update class system to reflect irregular second declension nouns (eg. "puer") 
 
 ## Research
@@ -35,4 +36,5 @@ a program/application to help study the forms and meanings of Latin words. I hop
     - https://quizlet.com/580886963/second-declension-nouns-latin-iii-flash-cards/
     - https://quizlet.com/661655088/latin-nouns-of-the-second-declension-flash-cards/
 - second declension neuter nouns
-    - https://quizlet.com/99860555/second-declension-latin-nouns-neuter-flash-cards/
+    - https://quizlet.com/gb/703946921/latin-nouns-second-declension-flash-cards/
+    - https://quizlet.com/676077292/second-declension-neuter-nouns-flash-cards/

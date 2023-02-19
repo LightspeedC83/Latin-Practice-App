@@ -1,22 +1,23 @@
-with open("word_files/noun_lists/first_declension/noun_list_first_combined.txt", "w", encoding = "utf-8") as output, open("word_files/noun_lists/first_declension/noun_list_first_1.txt") as f1, open("word_files/noun_lists/first_declension/noun_list_first_2.txt", encoding="utf8") as f2: 
+with open("word_files/noun_lists/second_declension_neuter/noun_list_second_neuter_combined.txt", "w", encoding = "utf-8") as output, open("word_files/noun_lists/second_declension_neuter/noun_list_second_neuter_1.txt", encoding="utf8") as f1, open("word_files/noun_lists/second_declension_neuter/noun_list_second_neuter_2.txt", encoding="utf8") as f2: 
     # getting and formatting list of words from file 1
     list_a = []
-    for entry in f1:
-        list_a.append([entry[0:entry.index(")")+1].strip(), entry[entry.index(")")+1:].strip()])
-
-    # getting and formatting list of words from file 2
-    list_b = []
     i = 1
     temp = None
     check = False
-    for entry in f2:
+    for entry in f1:
         if i % 2 == 1 and not entry.strip()=="":
             temp = entry
             check = True
         elif check:
-            list_b.append([temp.strip(), entry.strip()])
+            list_a.append([temp.strip(), entry.strip()])
             check = False
         i+=1
+
+    # getting and formatting list of words from file 2
+    list_b = []
+    for entry in f2:
+        list_b.append([entry[0:entry.index(")")+1].strip(), entry[entry.index(")")+1:].strip()])
+
 
     # comparing the two lists for repeated words
     matching = []
@@ -25,7 +26,7 @@ with open("word_files/noun_lists/first_declension/noun_list_first_combined.txt",
             if x[0][0:x[0].index(",")] == y[0][0:y[0].index(",")]:
                 matching.append(x)
                 break
-    
+
     # writing the combined list to the output file
     for x in list_a:
         if x not in matching:

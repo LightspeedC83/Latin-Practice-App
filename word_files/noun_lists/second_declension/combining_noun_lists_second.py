@@ -1,4 +1,4 @@
-with open("word_files/noun_lists/noun_list_second_combined.txt", "w", encoding = "utf-8") as output, open("word_files/noun_lists/noun_list_second_1.txt", encoding="utf8") as f1, open("word_files/noun_lists/noun_list_second_2.txt") as f2, open("word_files/noun_lists/noun_list_second_3.txt") as f3: 
+with open("word_files/noun_lists/second_declension/noun_list_second_combined.txt", "w", encoding = "utf-8") as output, open("word_files/noun_lists/second_declension/noun_list_second_1.txt", encoding="utf8") as f1, open("word_files/noun_lists/second_declension/noun_list_second_2.txt") as f2, open("word_files/noun_lists/noun_list_second_3.txt") as f3: 
     # getting and formatting list of words from file 1
     list_a = []
     i = 1
