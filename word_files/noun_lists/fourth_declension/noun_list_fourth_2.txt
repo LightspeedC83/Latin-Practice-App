@@ -1,0 +1,442 @@
+actus -us m
+impulse/act
+
+
+aditus -us m
+approach
+
+
+adventus -us m
+approach/arrival
+
+
+aestus -us m
+heat/tide
+
+
+arcus -us m
+bow
+
+
+artus -us m
+limbs
+
+
+aspectus -us m
+sight/appearance
+
+
+auditus -us m
+hearing
+
+
+cantus -us m
+song
+
+
+captus -us m
+comprehension/capacity
+
+
+casus -us m
+fall/chance/accident
+
+
+circuitus -us m
+circuit/detour
+
+
+comitatus -us m
+retinue
+
+
+commeatus -us m
+leave/provisions/supplies
+
+
+conatus -us m
+attempt
+
+
+concursus -us m
+running together/charge
+
+
+consensus -us m
+accord/agreement
+
+
+conspectus -us m
+view/sight
+
+
+consulatus -us m
+consulship
+
+
+conventus -us m
+meeting/company
+
+
+cruciatus -us m
+torture
+
+
+cultus -us m
+civilization/culture/style
+
+
+currus -us m
+chariot
+
+
+cursus -us m
+running
+
+
+dilectus -us m
+selection/levy
+
+
+discessus -us m
+departure
+
+
+effectus -us m
+effect/result/performance
+
+
+egressus -us m
+departure
+
+
+equitatus -us m
+cavalry
+
+
+eventus -us m
+outcome/result
+
+
+exercitus -us m
+army
+
+
+exitus -us m
+departure/end/outcome/result
+
+
+fletus -us m
+weeping
+
+
+fluctus -us m
+billow/surge/wave
+
+
+fremitus -us m
+growling/murmering
+
+
+fructus -us m
+produce/fruit/crop/reward
+
+
+gemitus -us m
+groan
+
+
+gradus -us m
+step/rung/position/degree
+
+
+gressus -us m
+step
+
+
+gustus -us m
+tasting
+
+
+habitus -us m
+condition/deportment/attire
+
+
+impetus -us m
+attack/rush/impulse/fury
+
+
+impulsus -us m
+impulse/urge/instigation
+
+
+incursus -us m
+attack/onset
+
+
+iniussus -us m
+without orders
+
+
+intellectus -us m
+intellect
+
+
+interitus -us m
+perishing/death
+
+
+introitus -us m
+entrance
+
+
+iussus -us m
+by order
+
+
+lacus -us m
+lake
+
+
+lapsus -us m
+gliding/falling/error
+
+
+luctus -us m
+mourning/distress
+
+
+magistratus -us m
+magistrate
+
+
+metus -us m
+fear/dread
+
+
+morsus -us m
+bite
+
+
+motus -us m
+movement/emotion/disturbance
+
+
+natus -us m
+by birth
+
+
+obitus -us m
+death
+
+
+occasus -us m
+setting/west/downfall
+
+
+odorattus -us m
+smelling
+
+
+ornatus -us m
+dress
+
+
+ortus -us m
+born/descended
+
+
+passus -us m
+pace/step
+
+
+peditatus -us m
+infantry
+
+
+portus -us m
+harbour/haven
+
+
+potus -us m
+drink
+
+
+principatus -us m
+first place/leadership
+
+
+prospectus -us m
+sight/view
+
+
+progress -us m
+advance
+
+
+pulsus -us m
+beating/beat/stroke
+
+
+quaestus -us m
+aquisition/gain/profit
+
+
+questus -us m
+complaint
+
+
+receptus -us m
+retreat
+
+
+reditus -us m
+return
+
+
+regress -us m
+return
+
+
+respectus -us m
+looking back/refuge/respect
+
+
+risus -us m
+laughter/laugh
+
+
+ritus -us m
+ceremony/rite
+
+
+saltus -us m
+woodland/pass/ravine
+
+
+senatus -us m
+senate
+
+
+sensus -us m
+feeling/perception/sense/emotion
+
+
+sinus -us m
+fold/coil/bay/gulf
+
+
+situs -us m
+position/site/situation
+
+
+sonitus -us m
+noise/sound
+
+
+specus -us m
+cave/cavity
+
+
+spiritus -us m
+breath of life/spirit/pride
+
+
+status -us m
+posture/position/condition
+
+
+strepitus -us m
+din/noise
+
+
+sumptus -us m
+charge/cost/expense
+
+
+tractus -us m
+track/trail/extent/stretch/dragging out
+
+
+tactus -us m
+touching
+
+
+tractatus -us m
+treatise/tractate
+
+
+transitus -us m
+crossing/passage
+
+
+tumultus -us m
+commotion/disorder
+
+
+usus -us m
+use/practice/skill/custom
+
+
+versus -us m
+row/line of writing
+
+
+vestitus -us m
+clothing
+
+
+victus -us m
+livelihood/living/victuals
+
+
+visus -us m
+sight/vision
+
+
+vultus -us m
+expression/countenance/face
+
+
+acus -us f
+needle/pin
+
+
+anus -us f
+old woman
+
+
+domus -us f
+house/home
+
+
+idus -uum pl
+f. Ides/middle of the Roman month
+
+
+manus -us f
+hand/force/power
+
+
+porticus -us f
+arcade/gallery
+
+
+tribus -us f
+tribe/mob
+
+
+cornu -us n
+horn
+
+
+genu -us n
+knee
+
+
+gelu -us n
+icy coldness
+
+
+venu -us n
+sale/purchase

@@ -40,6 +40,7 @@ a program/application to help study the forms and meanings of Latin words. I hop
     - https://quizlet.com/240593987/latin-nouns-second-declension-flash-cards/
     - https://quizlet.com/580886963/second-declension-nouns-latin-iii-flash-cards/
     - https://quizlet.com/661655088/latin-nouns-of-the-second-declension-flash-cards/
+    - consider adding: https://quizlet.com/278808078/latin-2nd-declension-nouns-flash-cards/
 - second declension neuter nouns
     - https://quizlet.com/gb/703946921/latin-nouns-second-declension-flash-cards/
     - https://quizlet.com/676077292/second-declension-neuter-nouns-flash-cards/
@@ -48,3 +49,6 @@ a program/application to help study the forms and meanings of Latin words. I hop
     - https://quizlet.com/380499886/latin-third-declension-nouns-jl-flash-cards/
     - https://quizlet.com/667337493/latin-3rd-declension-nouns-flash-cards/
     - https://quizlet.com/278808058/latin-3rd-declension-nouns-flash-cards/
+- fourth declension
+    - https://quizlet.com/749402469/latin-fourth-declension-nouns-flash-cards/
+    - https://quizlet.com/726111430/fourth-declension-nouns-flash-cards/
