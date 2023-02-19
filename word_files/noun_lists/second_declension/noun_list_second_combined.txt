@@ -33,7 +33,7 @@ thȳmus, ī, m | thymus
 tūberculum, ī, n | small tubercle
 venēnum, ī, n | venom/poison
 vībum, ī, n | wine
-vīrus, ī, n(!!!) | virus
+vīrus, ī, n | virus
 acromion, i, n | acromion
 aegrotus, i, m | patient
 antebrachium, i, n | forearm
@@ -159,7 +159,7 @@ adultus, ī, m | adult/grown-up man
 angulus, ī, m | angle
 annus, ī, m | year
 annus, ī, m | year
-atomus, ī, f(!!) | atomus
+atomus, ī, f | atomus
 bacillus, ī, m | bacillus/germ
 bonum, ī, n | the good/a good thing
 caecum, ī, n | caecum/blind intestine
@@ -175,7 +175,7 @@ circulus, ī, m | circle
 collum, ī, n | neck
 condylus, ī, m | condyle
 cubitus, ī, m | elbow
-diameter, ī, f(!!) | diameter
+diameter, ī, f | diameter
 digitus, ī, m | finger
 dorsum, ī, n | the back
 ductulus, ī, m | small duct
@@ -202,7 +202,7 @@ oesophagus, ī, m | gullet
 oleum, ī, n | oil
 organum, ī, n | organ
 pericardium, ī, n | pericardium
-periodus, ī, f(!!) | period
+periodus, ī, f | period
 radius, ī, m | radius
 remedium, ī, n | remedy
 scalpellum, ī, n | scalpel

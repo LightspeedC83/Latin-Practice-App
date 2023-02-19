@@ -18,7 +18,7 @@ annus, ī, m
 year
 
 
-atomus, ī, f(!!)
+atomus, ī, f
 atomus
 
 
@@ -98,7 +98,7 @@ dēlīrium, ī, n
 delirium
 
 
-diameter, ī, f(!!)
+diameter, ī, f
 diameter
 
 
@@ -258,7 +258,7 @@ perīculum, ī, n
 danger
 
 
-periodus, ī, f(!!)
+periodus, ī, f
 period
 
 
@@ -378,7 +378,7 @@ vir, ī, m
 man
 
 
-vīrus, ī, n(!!!)
+vīrus, ī, n
 virus
 
 

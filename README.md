@@ -20,16 +20,17 @@ a program/application to help study the forms and meanings of Latin words. I hop
 - Virgil's Aeneid in latin: 
     - https://gutenberg.org/files/227/227-h/227-h.htm
     - https://www.thelatinlibrary.com/verg.html
-    - 
 - Caesar's DBG:
     - http://www.thelatinlibrary.com/caesar/
     - https://quizlet.com/420930684/caesar-dbg-book-1-flash-cards/
     - https://quizlet.com/558957531/caesar-dbg-book-6-flash-cards/
-    - 
 - miscelanious words pdf: https://documents.kenyon.edu/classics/current/2099.wordlistforlatn202alphabetical.pdf
 - list of latin nouns: https://www.latin-is-simple.com/en/vocabulary/noun/?page=1
     - will have to do web scraping to access it
 - https://www.nationalarchives.gov.uk/latin/stage-1-latin/resources/stage-1-latin-word-list/
+- https://dcc.dickinson.edu/latin-core-list1
+- https://github.com/biblissima/collatinus/blob/master/bin/data/lemmes.la
+- https://raw.githubusercontent.com/biblissima/collatinus/master/bin/data/lemmes.en
 
 
 ## Sources:
