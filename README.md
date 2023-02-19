@@ -6,7 +6,9 @@ a program/application to help study the forms and meanings of Latin words. I hop
 - ~~import list of first declension nouns~~
 - ~~import list of second declension nouns~~
 - ~~import list of second declension neuter nouns~~
-- import third declension nouns (I realize there's no real point in trying to sort out between the different subsections of declension (eg. second v second neuter) so this is just all 3rd declensions)
+- ~~import third declension nouns~~
+- import fourth declension nouns
+- sift through third nouns to sort between neuter and third
 - sift through the neuter nouns mixed in with the secon declension nouns
     - develop way of trying to automatically classify a noun based off principle parts
 - update class system to reflect irregular second declension nouns (eg. "puer") 
