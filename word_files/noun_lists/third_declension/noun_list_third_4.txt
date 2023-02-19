@@ -1,0 +1,598 @@
+abdomen, abdominis n.
+abdomen
+
+
+accipiter, accipitris c.
+hawk
+
+
+actor, actoris m.
+actor
+
+
+aedificator, aedificatoris m.
+builder
+
+
+aestas, aestatis f.
+summer
+
+
+aetas, aetatis f.
+age
+
+
+agmen, agminis n.
+column of march
+
+
+alces, alcis f.
+moose
+
+
+Allobroges, -um m. pl.
+The Allobroges (Gallic)
+
+
+amor, amoris m.
+love
+
+
+anas, anatis f.
+duck
+
+
+animal, animalis n.
+animal
+
+
+anser, anseris m.
+goose
+
+
+apis, apis f.
+bee
+
+
+Apollo, Apollinis m.
+Apollo
+
+
+aptenodyctes, aptenodyctis f.
+penguin
+
+
+Arausio, Arausionis f.
+Arausio
+
+
+arbor, arboris f.
+tree
+
+
+Arelate, n.
+Arelate
+
+
+aries, arietis m.
+ram
+
+
+aristis, aristidis f.
+vegetable
+
+
+ars, artis f.
+art, skill
+
+
+auris, auris f.
+ear
+
+
+avis, avis f.
+bird
+
+
+Bistones, -um m. pl.
+The Bistones (Thracian)
+
+
+bos, bovis f.
+cow
+
+
+bubo, bubonis m.
+owl
+
+
+bufo, bufonis m.
+toad
+
+
+calx, calcis c.
+heel
+
+
+camelopardis, camelopardis f.
+giraffe
+
+
+cancer, canceris m.
+crab
+
+
+canis, canis c.
+dog
+
+
+caput, capitis n.
+head
+
+
+Caralis, Caralis f.
+Caralis
+
+
+carmen, carminis n.
+song, poem
+
+
+caro, carnis f.
+meat, flesh
+
+
+Carthago, Carthaginis f.
+Carthago
+
+
+Carthago, Carthaginis Nova f.
+Carthago Nova
+
+
+celeritas, celeritatis f.
+speed
+
+
+centurio, centurionis m.
+centurion
+
+
+Ceres, -eris f.
+Ceres
+
+
+cereal, cerealis n.
+cereal
+
+
+Charybdis, Charybdis f.
+Charybdis
+
+
+cimex, cimicis c.
+bug
+
+
+civis, civis c.
+citizen
+
+
+civitas, civitatis f.
+state
+
+
+clades, cladis f.
+disaster, defeat
+
+
+clamor, clamoris m.
+shout
+
+
+classis, classis f.
+fleet
+
+
+clunis, clunis m.
+bottom
+
+
+cohors, cohortis f.
+cohort
+
+
+collis, collis m.
+hill
+
+
+comes, comitis c.
+companion
+
+
+consul, consulis m.
+consul
+
+
+coniunx, coniugis c.
+wife, husband
+
+
+cor, cordis n.
+heart
+
+
+cornix, cornicis f.
+crow
+
+
+corpus, corporis n.
+body
+
+
+coturnix, coturnicis f.
+quail
+
+
+crescente, crescentis f.
+croissant
+
+
+crus, cruris n.
+leg
+
+
+cucumis, cucumeris m.
+cucumber
+
+
+culex, culicis m.
+mosquito
+
+
+Cupido, Cupidis m.
+Cupid
+
+
+custos, custodis m.
+guard
+
+
+cutis, cutis f.
+skin
+
+
+cyclops, cyclopis m.
+cyclops
+
+
+decurio, decurionis m.
+decurion
+
+
+dens, dentis m.
+tooth
+
+
+Druides, -um m. pl.
+Druids
+
+
+dux, ducis m.
+leader
+
+
+eques, equitis m.
+cavalryman
+
+
+explorator, exploratoris m.
+scout
+
+
+falco, falconis m.
+falcon
+
+
+fel, fellis n.
+gallbladder
+
+
+feles, felis f
+cat
+
+
+femur, femoris n.
+thigh
+
+
+finis, finis m.
+end
+
+
+flos, floris m.
+flower
+
+
+foedus, foederis n.
+treaty
+
+
+frons, frontis f.
+forehead
+
+
+funditor, funditoris m.
+slinger
+
+
+funis, funis m.
+rope
+
+
+flumen, fluminis n.
+river
+
+
+frater, fratris m.
+brother
+
+
+fullo, fullonis m.
+cloth-fuller
+
+
+fur, furis m.
+thief
+
+
+furor, furoris m.
+fury
+
+
+gallopavo, gallopavonis m.
+turkey
+
+
+gens, gentis f.
+race
+
+
+genus, generis n.
+sort, kind
+
+
+gigas, gigantis m.
+giant
+
+
+gingiber, gingiberis n.
+ginger
+
+
+gladiator, gladiatoris m.
+gladiator
+
+
+gorgo, gorgonis f.
+gorgon
+
+
+grex, gregis m.
+herd
+
+
+grus, grusis c.
+crane
+
+
+gryps, grypis m.
+griffin
+
+
+Hannibal, Hannibalis m.
+Hannibal
+
+
+Hasdrubal, Hasdrubalis m.
+Hasdrubal
+
+
+Hercules, -is -i m.
+Hercules
+
+
+hiems, hiemis f.
+winter
+
+
+homo, hominis c.
+man, person
+
+
+honor, honoris m.
+honour
+
+
+hospes, hospitis m.
+guest, host
+
+
+hostes, hostium c.
+enemy
+
+
+iecur, iecoris n.
+liver
+
+
+ignis, ignis m.
+fire
+
+
+imperator, imperatoris m.
+emperor, general
+
+
+infans, infantis c.
+infant
+
+
+Insubres, -ium m. pl.
+The Insubres (Gallic)
+
+
+Iuno, Iunonis f.
+Juno
+
+
+Iuppiter, Iovis m.
+Jupiter
+
+
+iter, itineris n.
+journey
+
+
+iuvenis, iuvenis m.
+young man
+
+
+labor, laboris m.
+work
+
+
+latro, latronis m.
+bandit
+
+
+legio, legionis f.
+legion
+
+
+lens, lentis f.
+lentil
+
+
+lentigo, lentiginis f.
+freckle
+
+
+leo, leonis m.
+lion
+
+
+lex, legis f.
+law
+
+
+libertas, libertatis f.
+freedom
+
+
+limax, limacis c.
+slug
+
+
+litus, litoris n.
+shore
+
+
+lux, lucis f.
+light
+
+
+lynx, lyncis c.
+lynx
+
+
+mare, maris n.
+sea
+
+
+Mars, Martis m.
+Mars
+
+
+mater, matris f.
+mother
+
+
+media pars, partis f.
+waist
+
+
+mel, mellis n.
+honey
+
+
+melopepo, melopeponis m.
+watermelon
+
+
+mens, mentis f.
+mind
+
+
+mercator, mercatoris m.
+merchant
+
+
+meretrix, meretricis f.
+prostitute
+
+
+miles, militis m.
+soldier
+
+
+Mithridates, Mithridatis m.
+Mithridates
+
+
+monoceros, monocerotis m.
+unicorn
+
+
+mons, montis m.
+mountain
+
+
+mos, moris m.
+custom
+
+
+mors, mortis f.
+death
+
+
+mulier, mulieris f.
+woman
+
+
+mulio, mulionis m.
+muleteer
+
+
+mus, muris m.
+mouse
+
+
+myax, myacis m.
+clam
+
+
+Narbo, Narbonis f.
+Narbo
+
+
+naris, naris f.
+nostril
+
+
+navis, navis f.
+ship
+
+
+Neapolis, Neapolis f.
+Neapolis

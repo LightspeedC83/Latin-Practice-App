@@ -1,0 +1,578 @@
+aestas, aestatis, f.
+summer, heat
+
+
+aetas, aetatis, f.
+age
+
+
+agger, aggeris, m.
+rampart
+
+
+agmen, agminis, n.
+column
+
+
+amor, amoris, m.
+love
+
+
+animal, animalis, n.
+animal
+
+
+arbor, arboris, f.
+tree
+
+
+ars, artis, f.
+skill, art
+
+
+arx, arcis, f.
+citadel
+
+
+auctoritas, auctoritatis, f.
+authority, power
+
+
+auris, auris, f.
+ear
+
+
+bos, bovis, m/f
+ox, cow
+
+
+caedes, caedis, f.
+slaughter, murder
+
+
+canis, canis, m.
+dog
+
+
+caro, carnis, f.
+flesh
+
+
+carmen, carminis, n.
+poem, song
+
+
+caput, capitis, n.
+head
+
+
+certamen, certaminis, n.
+contest, struggle
+
+
+civis, civis, m/f
+citizen
+
+
+civitas, civitatis, f.
+state
+
+
+clades, cladis, f.
+defeat, disaster
+
+
+clamor, clamoris, m.
+shout
+
+
+classis, classis, f.
+fleet
+
+
+cohors, cohortis, f.
+cohort
+
+
+collis, collis, m.
+hill
+
+
+comes, comitis, m.
+companion
+
+
+coniunx, coniugis, m/f
+wife, husband
+
+
+consul, consulis, m.
+consul
+
+
+corpus, corporis, n.
+body
+
+
+crux, crucis, f.
+cross
+
+
+cupido, cupidinis, f.
+desire, passion
+
+
+custos, custodis, m.
+guard
+
+
+dedecus, dedecoris, n.
+disgrace
+
+
+decus, decoris, n.
+honour
+
+
+dictator, dictatoris, m.
+dictator
+
+
+dignitas, dignitatis, f.
+worth, dignity
+
+
+dolor, doloris, m.
+grief, pain
+
+
+dux, ducis, m.
+leader, guide
+
+
+eques, equitis, m.
+horseman
+
+
+equites, equitum, m. pl.
+cavalry
+
+
+explorator, exploratoris, m.
+scout, spy
+
+
+facultas, facultatis, f.
+opportunity
+
+
+fames, famis, f.
+hunger
+
+
+finis, finis, m.
+end, boundary
+
+
+flos, floris, m.
+flower
+
+
+flumen, fluminis, n.
+river
+
+
+fons, fontis, m.
+fountain
+
+
+fortitudo, fortitudinis, f.
+bravery
+
+
+frater, fratris, m.
+brother
+
+
+fraus, fraudis, f.
+deceit; trickery
+
+
+frigus, frigoris, n.
+cold
+
+
+genus, generis, n.
+race, kind
+
+
+gens, gentis, f.
+people, tribe
+
+
+hiems, hiemis, f.
+winter
+
+
+homo, hominis, m.
+man
+
+
+honor, honoris, m.
+honour
+
+
+hospes, hospitis, m.
+host, guest
+
+
+hostis, hostis, m.
+enemy
+
+
+ignis, ignis, m.
+fire
+
+
+imperator, imperatoris, m.
+general
+
+
+iter, itineris, n.
+journey
+
+
+ius, iuris, n.
+law, right
+
+
+iudex, iudicis, m.
+judge
+
+
+iuvenis, iuvenis, m.
+young man
+
+
+labor, laboris, m.
+work
+
+
+latro, latronis, m.
+robber
+
+
+laus, laudis, f.
+praise
+
+
+legio, legionis, f.
+legion
+
+
+leo, leonis, m.
+lion
+
+
+lex, legis, f.
+law
+
+
+libertas, libertatis, f.
+freedom
+
+
+litus, litoris, f.
+shore
+
+
+lux, lucis, f.
+light
+
+
+multido, multitudinis, f.
+crowd
+
+
+magnitudo, magnitudinis, f.
+size
+
+
+mare, maris, n.
+sea
+
+
+mater, matris, f.
+mother
+
+
+mens, mentis, f.
+mind
+
+
+mercator, mercatoris, m.
+merchant
+
+
+miles, militis, m.
+soldier
+
+
+moenia, moenium, n. pl.
+city walls
+
+
+mons, montis, m.
+mountain
+
+
+mors, mortis, f.
+death
+
+
+mos, moris, m.
+custom
+
+
+mulier, mulieris, f.
+woman, wife
+
+
+munitio, munitionis, f.
+fortification
+
+
+munus, muneris, n.
+reward
+
+
+navis, navis, f.
+ship
+
+
+nemo, neminis, m/f
+no one
+
+
+nomen, nominis, n.
+name
+
+
+nox, noctis, f.
+night
+
+
+nubes, nubis, f.
+cloud
+
+
+obses, obsidis, m/f
+hostage
+
+
+occasio, occasionis, f.
+opportunity
+
+
+onus, oneris, n.
+burden
+
+
+ops, opis, f.
+help
+
+
+opes, opium, f. pl.
+wealth
+
+
+opus, operis, n
+work
+
+
+ordo, ordinis, m.
+order, rank
+
+
+os, oris, n.
+mouth, face
+
+
+orator, oratoris, m.
+speaker
+
+
+oratio, orationis, f.
+speech
+
+
+os, ossis, n.
+bone
+
+
+pax, pacis, f.
+peace
+
+
+parens, parentis, m/f
+parent
+
+
+pars, partis, f.
+part
+
+
+pater, patris, m.
+father
+
+
+pes, pedis, m.
+foot
+
+
+pedes, peditis, m.
+foot soldier
+
+
+pedites, peditum, m. pl.
+infantry
+
+
+plebs, plebis, f.
+common people
+
+
+pons, pontis, m.
+bridge
+
+
+potestas, potestatis, f.
+power
+
+
+princeps, principis, m.
+chief, leader
+
+
+rex, regis, m.
+king
+
+
+religio, religionis, f.
+religion
+
+
+rus, ruris, n.
+countryside
+
+
+sacerdos, sacerdotis, m.
+priest, priestess
+
+
+salus, salutis, f.
+safety
+
+
+sanguis, sanguinis, m.
+blood
+
+
+scelus, sceleris, n.
+crime
+
+
+sedes, sedis, f.
+seat, residence
+
+
+senex, senis, m.
+old man
+
+
+senator, senatoris, m.
+senator
+
+
+servitudo, servitudinis, f.
+slavery
+
+
+sol, solis, m.
+sun
+
+
+soror, sororis, f.
+sister
+
+
+statio, stationis, f.
+guard post, position
+
+
+tempus, temporis, n.
+time
+
+
+tempestas, tempestatis, f.
+storm
+
+
+timor, timoris, m.
+fear
+
+
+turris, turris, f.
+tower
+
+
+urbs, urbis, f.
+city
+
+
+uxor, uxoris, f.
+wife
+
+
+vallis, vallis, f.
+valley
+
+
+ver, veris, n.
+spring
+
+
+veritas, veritatis, f.
+truth
+
+
+vesper, vesperis, m.
+evening
+
+
+vestis, vestis, f.
+clothes
+
+
+victor, victoris, m.
+victor
+
+
+virgo, virginis, f.
+maiden
+
+
+virtus, virtutis, f.
+courage
+
+
+vis, vis, f.
+strength, force
+
+
+vox, vocis, f.
+voice
+
+
+vulnus, vulneris, n.
+wound

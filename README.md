@@ -6,6 +6,7 @@ a program/application to help study the forms and meanings of Latin words. I hop
 - ~~import list of first declension nouns~~
 - ~~import list of second declension nouns~~
 - ~~import list of second declension neuter nouns~~
+- import third declension nouns (I realize there's no real point in trying to sort out between the different subsections of declension (eg. second v second neuter) so this is just all 3rd declensions)
 - sift through the neuter nouns mixed in with the secon declension nouns
     - develop way of trying to automatically classify a noun based off principle parts
 - update class system to reflect irregular second declension nouns (eg. "puer") 
@@ -27,7 +28,7 @@ a program/application to help study the forms and meanings of Latin words. I hop
 
 
 ## Sources:
-- 6 years of Latin
+- 6 years of taking Latin
 - first declension nouns
     - https://quizlet.com/240560327/latin-nouns-first-declension-flash-cards/
     - https://quizlet.com/824589/latin-first-declension-nouns-flash-cards/
@@ -38,3 +39,8 @@ a program/application to help study the forms and meanings of Latin words. I hop
 - second declension neuter nouns
     - https://quizlet.com/gb/703946921/latin-nouns-second-declension-flash-cards/
     - https://quizlet.com/676077292/second-declension-neuter-nouns-flash-cards/
+- third declension
+    - https://quizlet.com/763165699/third-declension-nouns-latin-flash-cards/
+    - https://quizlet.com/380499886/latin-third-declension-nouns-jl-flash-cards/
+    - https://quizlet.com/667337493/latin-3rd-declension-nouns-flash-cards/
+    - https://quizlet.com/278808058/latin-3rd-declension-nouns-flash-cards/

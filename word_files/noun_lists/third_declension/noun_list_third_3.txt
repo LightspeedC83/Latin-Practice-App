@@ -1,0 +1,522 @@
+amor, -is, (m)
+love
+
+
+ariēs, arietis (m)
+ram
+
+
+centuriō, centuriōnis m.
+centurion
+
+
+clāmor, clāmōris, m.
+to shout
+
+
+color, coloris, m
+color
+
+
+cōnsul, cōnsulis, m.
+consul
+
+
+dēfēnsor, dēfēnsōris m.
+defender
+
+
+dictātor, dictātōris, m.
+dictator
+
+
+dolor, doloris, m.
+pain, grief
+
+
+dux, ducis, m.
+leader, general
+
+
+eques, equitis, m.
+horseman
+
+
+explorātor, explorātōris, m.
+scout
+
+
+frāter, fratris m.
+brother
+
+
+gladiātor, gladiātōris, m.
+gladiator
+
+
+homo, hominis, m.
+man
+
+
+honor, honoris, m.
+honor, office
+
+
+imperātor, imperātōris, m.
+general, emperor
+
+
+labor, laboris, m.
+to work
+
+
+leō, leōnis, m.
+lion
+
+
+maiōrēs, maiōrum, m. pl.
+ancestors
+
+
+mercātor, mercātōris, m.
+merchant
+
+
+mīles, mīlitis, m.
+soldier
+
+
+mōs, mōris, m.
+custom
+
+
+nēmo, nēminis/nūllius m.
+no one
+
+
+obses, obsidis, m.
+hostage
+
+
+ōrātor, ōrātōris, m.
+orator, speaker
+
+
+ōrdō, ōrdinis, m.
+rank, line, order
+
+
+pater, patris, m.
+father
+
+
+pedes, peditis, m.
+infantryman
+
+
+pēs, pedis, m.
+foot
+
+
+praetor, praetoris, m
+praetor, judge
+
+
+prīnceps, prīncipis, m.
+chief, emperor
+
+
+quaestor, quaestoris m.
+treasurer, quaestor
+
+
+rēx, rēgis, m.
+king
+
+
+senātor, senātōris, m.
+senator
+
+
+sōl, sōlis, m.
+sun
+
+
+terror, terroris m.
+terror
+
+
+timor, timoris, m.
+fear
+
+
+victor, victoris, m.
+victor, conqueror
+
+
+facultas, facultatis, f.
+opportunity, faculty
+
+
+fortitudo, fortitudinis, f.
+bravery
+
+
+hiems, hiemis, f.
+winter
+
+
+lātitūdō, lātitūdinis, f.
+width
+
+
+laus, laudis, f.
+praise
+
+
+lēgatio, lēgationis, f.
+embassy
+
+
+legiō, legiōnis, f.
+legion
+
+
+lēx, lēgis, f.
+law
+
+
+lībertās, lībertātis, f.
+freedom
+
+
+lux, lucis, f.
+light
+
+
+magnitudo, magnitudinis, f.
+size
+
+
+māter, mātris, f.
+mother
+
+
+multitudo, multitudinis, f.
+crowd
+
+
+mūnitio, mūnitionis, f.
+fortification
+
+
+nātio, nātiōnis, f.
+nation, tribe
+
+
+nōbilitas, nōbilitātis, f.
+nobility
+
+
+nox, noctis, f.
+night
+
+
+obsidio, obsidionis, f.
+siege
+
+
+occāsiō, occāsiōnis, f.
+occasion, opportunity
+
+
+oppugnatio, oppugnationis, f.
+attack
+
+
+ōrātiō, ōrātiōnis, f.
+speech
+
+
+pax, packs, f.
+peace
+
+
+plēbs, plēbis f.
+common people
+
+
+possessiō, possessiōnis f.
+possession
+
+
+potestās, potestātis, f.
+power
+
+
+profectiō, profectiōnis, f.
+departure
+
+
+ratiōnēs, ratiōnum, f.
+plan
+
+
+regiō, regiōnis, f.
+region
+
+
+soror, sororis, f.
+sister
+
+
+salūs, salūtis, f.
+safety, health, welfare
+
+
+suspīciō, suspīciōnis f
+suspicion
+
+
+tempestas, tempestatis, f.
+weather, storm
+
+
+virtus, virtutis, f.
+courage
+
+
+vis, vis, f.
+force, power, violence
+
+
+voluntas, voluntatis f.
+will, wish
+
+
+vox, vocis, f.
+voice
+
+
+ars, artis, f.
+art, skill
+
+
+caedes, caedis, f.
+slaughter, murder
+
+
+classis, classis, f.
+fleet, class
+
+
+adulēscēns, adulēscentis m.
+young man
+
+
+canis, canis masc./fem.
+dog
+
+
+cīvis, cīvis, m./f.
+citizen
+
+
+cliēns, -entis, m.
+client
+
+
+collis, collis, m.
+hill
+
+
+dens, dentis, m.
+tooth
+
+
+fīnis, fīnis, m.
+end, boundary
+
+
+finēs, finium, m. (pl.)
+boundaries, territory
+
+
+hostis, hostis, m.
+enemy, host
+
+
+īgnis, īgnis, (m.)
+fire
+
+
+mēnsis, mēnsis, m.
+month
+
+
+mōns, montis, m.
+mountain
+
+
+pōns, pontis, m.
+bridge
+
+
+aestas, aestatis, f.
+summer
+
+
+aetas, aetatis, f.
+age
+
+
+altitudo, altitudinis, f.
+altitude
+
+
+arbor, arboris, f.
+tree
+
+
+arx, arcis, f.
+citadel, stronghold
+
+
+auctōritās, auctōritātis, f.
+influence, authority
+
+
+calamitas, calamitatis, f.
+disaster, calamity
+
+
+celeritas, celeritatis, f.
+speed
+
+
+civitas, civitatis, f.
+state
+
+
+condicio, condicionis f.
+terms, condition, agreement
+
+
+consuetudo, consuetudinis, f.
+custom
+
+
+cupiditas, cupiditatis, f.
+desire
+
+
+deditio, deditionis (f)
+to surrender
+
+
+difficultas, difficultatis, f.
+difficulty
+
+
+cohors, cohortis, f.
+cohort
+
+
+gens, gentis, f.
+family, clan, nation, race
+
+
+mens, mentis, f.
+mind
+
+
+mors, mortis, f.
+death
+
+
+navis, navis, f.
+ship
+
+
+pars, partis, f.
+part
+
+
+turris, turris, f.
+tower
+
+
+urbs, urbis, f.
+city
+
+
+valles, vallis f.
+valley
+
+
+agmen, agminis n.
+battle line, marching column
+
+
+caput, capitis n.
+head
+
+
+corpus, corporis, n.
+body
+
+
+flumen, fluminis, n.
+river
+
+
+genus, generis n.
+race, kind, sort
+
+
+iter, itineris, n.
+journey, route, way
+
+
+iūs, iūris, n.
+right, justice, law
+
+
+latus, lateris n.
+side
+
+
+litus, litoris, n.
+shore
+
+
+nihil, nihilis, n.
+nothing
+
+
+nomen, nominis, n.
+name
+
+
+opus, operis, n.
+to work
+
+
+tempus, temporis, n.
+time
+
+
+vulnus, vulneris, n.
+wound
+
+
+animal, animalis, n.
+animal
+
+
+examplar, examplaris, n
+example
+
+
+mare, maris, n.
+sea

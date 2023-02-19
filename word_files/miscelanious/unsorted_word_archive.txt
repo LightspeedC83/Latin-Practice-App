@@ -759,7 +759,6 @@ uter, utra, utrum (adjective) which (of two things)
 
 uxor, uxoris (f.) wife
 
-
 venerabilis, -e, (adjective) venerable
 
 venio, venire, veni, ventum (4) to come
@@ -783,26 +782,6 @@ video, videre, vidi, visum (2) to see
 vidua, -e (f.) widow
 
 vigilia, -e (f.) eve
-
-viginti duo twenty two
-
-viginti novem twenty nine
-
-viginti octo twenty eight
-
-viginti quattuor twenty four
-
-viginti quinque twenty five
-
-viginti septem twenty seven
-
-viginti sex twenty six
-
-viginti tres twenty three
-
-viginti twenty
-
-viginti unus twenty one
 
 villa, -e (f.) vill, town
 
