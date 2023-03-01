@@ -13,9 +13,9 @@ a program/application to help study the forms and meanings of Latin words. I hop
 - ~~import fifth declension nouns~~
 - develop way of trying to automatically classify a noun based off principle parts
     - ~~first declension~~
-    - ~~second declension ~~
+    - ~~second declension~~
     - third declension AAAAAAA
-    - ~~fourth declension ~~
+    - ~~fourth declension~~
     - ~~fifth  declension~~
 - update class system to reflect irregular second declension nouns (eg. "puer") 
 

@@ -56,5 +56,14 @@ with open ("word_files/noun_lists/one_big_noun_thing.txt", encoding="utf8") as n
             elif p_parts[1][-2:] in  ["ei", f"{e_long}i", e_long+i_long, f"e{i_long}"]:
                 d5.append((p_parts,gender,definition))
 
-        else: # oh yea baby that else statment is catching all that thrid declension dripping through the drain AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-            pass
+        elif gender in ["n", "n.", "N", "N."]:  # 3rd neuter
+            d3n.append((p_parts,gender,definition))
+        else: # 3rd declension
+            d3.append((p_parts,gender,definition))
+
+    with open("sorted.txt", "w", encoding="utf-8") as output:
+        for declension in [d1,d2,d2n,d3,d3n,d4,d5]:
+            output.write("\n"+"-"*50+"\n"+"next_declesnion"+"\n"+"-"*50+"\n"*2)
+            for x in declension:
+                output.write(str(x))
+                output.write("\n")
