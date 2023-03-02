@@ -148,7 +148,7 @@ class Noun:
         else:
             raise ValueError("the declension parameter must be an int 1-5 or float 2.5 or 3.5")
         
-
+        #chekcing for irregular nouns 
         # making a list of the declined word
         self.declined = []
         for ending in self.declension:
@@ -158,7 +158,7 @@ class Noun:
                 self.declined.append(stem + ending)
     
     # function to print the noun an all of its forms
-    def decline(self):
+    def print_declined(self):
         """prints out the word in all its forms"""
         
         names = ["Nominative", "Genitive", "Dative", "Accusative", "Ablative", "Vocative"]
@@ -174,7 +174,7 @@ class Noun:
         print("-"*25)
     
 
-# testing stuff out 
-puella = Noun("puella -ae f.", "puell", 1, "f", "girl")
+# # testing stuff out 
+# puella = Noun("puella -ae f.", "puell", 1, "f", "girl")
 
-puella.decline()
+# puella.print_declined()

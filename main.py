@@ -9,6 +9,7 @@ for entry in dickinson_db.data:
 
     # if it is a noun:
     if "noun" in entry[3].lower() and "pronoun" not in entry[3].lower():
+        print(entry)
         # determining the declension
         declension = 0
         for x in entry[3]:
@@ -27,12 +28,26 @@ for entry in dickinson_db.data:
         #####################
 
         # getting the stem
-        if declension in [3, 3.5]:
-            pass
-        elif declension == 1:
-            stem = entry[1].split()[0][:-1] 
+        
+        first_pp = entry[1].split()[0]
+        second_pp = entry[1].split()[1]
+
+        if "-" in second_pp:
+            if declension == 1:
+                stem = first_pp[:-1]
+            elif declension in [2, 2.5]:
+                stem = first_pp[:-2]
+            elif declension in [3, 3.5]: # aaaaaaaaaaaaaaaa
+                pass
+            else:
+                stem = first_pp[:-2]
         else:
-            stem = entry[1].split()[0][:-2]
+            i = 0
+            while True:
+                if not first_pp[i] == second_pp[i]:
+                    stem = second_pp[:i+1]
+                i+=1
+
         
         noun_list.append(nouns.Noun(p_parts=entry[1], stem=stem, declension=declension, gender=entry[1][-2], definition=entry[2]))
 

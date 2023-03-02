@@ -17,6 +17,8 @@ a program/application to help study the forms and meanings of Latin words. I hop
     - ~~third declension~~
     - ~~fourth declension~~
     - ~~fifth  declension~~
+- make a thing to find the stem of a word based off principle parts
+    - third declension is killing me
 - update class system to reflect irregular second declension nouns (eg. "puer") 
 - deal with indeclinable words
 
