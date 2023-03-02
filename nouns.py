@@ -132,18 +132,28 @@ fifth_declension = [
 
 
 class Noun:
-    """A Latin noun"""
-    def __init__(self, name, stem, declension, gender, definition):
-        self.name = name
+    """A Latin noun. For the declension argument, the neuter declension will be expressed as 0.5 so 2nd neuter would be 2.5 and 3rd neuter would be 3.5"""
+    def __init__(self, p_parts, stem, declension, gender, definition):
+        self.p_parts = p_parts
         self.gender = gender
         self.stem = stem
         self.definition = definition
+        # setting up the correct endings list for the given declension
+        if type(declension) == int and declension in [x for x in range(1,6)]:
+            self.declension = [first_declension, second_declension, third_declension, fourth_declension, fifth_declension][declension-1]
+        elif declension == 2.5:
+            self.declension = second_neuter
+        elif declension == 3.5:
+            self.declension = third_neuter
+        else:
+            raise ValueError("the declension parameter must be an int 1-5 or float 2.5 or 3.5")
+        
 
         # making a list of the declined word
         self.declined = []
-        for ending in declension:
+        for ending in self.declension:
             if ending == None:
-                self.declined.append(name)
+                self.declined.append(p_parts)
             else:
                 self.declined.append(stem + ending)
     
@@ -153,18 +163,18 @@ class Noun:
         
         names = ["Nominative", "Genitive", "Dative", "Accusative", "Ablative", "Vocative"]
         
-        print("-"*25+f"\n{self.name}, {self.gender}. {self.definition}")
+        print("-"*25+f"\n{self.p_parts.split()[0]}, {self.gender}. {self.definition}")
         print("-"*25+"\nSingular")
-        for form, name in zip(self.declined[0:6],names):
-            print(f"\t{name}: {form}")
+        for form, p_parts in zip(self.declined[0:6],names):
+            print(f"\t{p_parts}: {form}")
 
         print("-"*25+"\nPlural:")
-        for form, name in zip(self.declined[6:],names):
-            print(f"\t{name}: {form}")
+        for form, p_parts in zip(self.declined[6:],names):
+            print(f"\t{p_parts}: {form}")
         print("-"*25)
     
 
 # testing stuff out 
-puella = Noun("puella", "puell", first_declension, "f", "girl")
+puella = Noun("puella -ae f.", "puell", 1, "f", "girl")
 
 puella.decline()

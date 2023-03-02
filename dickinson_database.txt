@@ -416,7 +416,7 @@
 415|ingrātus -a -um:|unpleasant, disagreeable|Adjective: 1st and 2nd Declension|Personality Traits/Characteristics|592
 416|ingredior -gredī -gressus sum:|step in, enter|Verb: Deponent|Motion|885
 417|inimīcus -a -um:|unfriendly; (as subst.) enemy|Adjective: 1st and 2nd Declension|Personality Traits/Characteristics|952
-418|initium -ī n.:|beginning|Noun: 2nd Declension|Time|865
+418|initium -ī n.|beginning|Noun: 2nd Declension|Time|865
 419|iniūria -ae f.:|injustice, wrong, affront|Noun: 1st Declension|Justice|381
 420|inquam, inquis, inquit, inquiunt:|say (used with direct speech)|Verb: Irregular|Speech/Oratory|163
 421|īnstituō -stituere -stituī -stitūtum:|undertake; equip|Verb: 3rd Conjugation -ō|Making/Doing|931

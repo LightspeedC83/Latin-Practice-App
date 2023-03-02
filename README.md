@@ -11,13 +11,14 @@ a program/application to help study the forms and meanings of Latin words. I hop
     - ~~(the solution doesn't fix the underlying problem, but sifts through the noun_list_third_combined.txt file and removes duplicates and puts everything into a new file because that seemed easier and I was feeling lazy)~~
 - ~~import fourth declension nouns~~
 - ~~import fifth declension nouns~~
-- develop way of trying to automatically classify a noun based off principle parts
+- ~~develop way of trying to automatically classify a noun based off principle parts~~
     - ~~first declension~~
     - ~~second declension~~
-    - third declension AAAAAAA
+    - ~~third declension~~
     - ~~fourth declension~~
     - ~~fifth  declension~~
 - update class system to reflect irregular second declension nouns (eg. "puer") 
+- deal with indeclinable words
 
 ## Research
 - Virgil's Aeneid in latin: 
